@@ -94,5 +94,5 @@
 ## 📬 Let's Connect
 
 - 🌐 Portfolio: [nesrine-nasri.vercel.app](https://nesrine-nasri.vercel.app)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/nesrine-nasri-b6a348244/) 
 - 📧 Email: `nesrinasri99@gmail.com`  
