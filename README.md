@@ -59,12 +59,12 @@
 
 ---
 
-📫 **How to reach me**  
-- 🌐 Portfolio: [nesrine-nasri.vercel.app](https://nesrine-nasri.vercel.app)
-- 💌 Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+ **How to reach me**  
+-  Portfolio: [nesrine-nasri.vercel.app](https://nesrine-nasri.vercel.app)
+-  Email: your-email@example.com  
+-  LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 ---
 
-> 💡 “Code is not just code, it's a way to express creativity and solve real-world problems.”
+>  “Code is not just code, it's a way to express creativity and solve real-world problems.”
 
