@@ -18,7 +18,7 @@
 -  I’m learning more about **GitLab CI/CD** and **Docker**
 -  Ask me about **React, Tailwind CSS, Strapi, Git**
 -  Based in **Tunisia**
--  Reach me at: `nesrine.nasri@email.com` (Replace with your actual email)
+-  Reach me at: `nesrinasri99@gmail.com` 
 -  Love building clean UI/UX and scalable systems
 
 ---
